@@ -1,0 +1,6 @@
+framework module Pods_RealmCompactProblemRepro {
+  umbrella header "Pods-RealmCompactProblemRepro-umbrella.h"
+
+  export *
+  module * { export * }
+}
